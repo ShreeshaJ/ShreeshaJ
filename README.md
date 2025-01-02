@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am starting my coding jorney and am ready for new possibilities.
+I am starting my coding journey and am ready for new possibilities.
 **Wuppah!**
